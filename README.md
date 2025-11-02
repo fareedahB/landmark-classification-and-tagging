@@ -56,9 +56,13 @@ I developed two CNN-based models to classify landmarks from a large image datase
 - Gradio (for deployment)
 
 ## 🚀 Results
-- Achieved high classification accuracy using transfer learning.
+- Achieved high classification accuracy (75%) using transfer learning.
 - Demonstrated strong generalization on unseen landmark images.
 - Successfully deployed a functional app for image-based landmark prediction.
+
+![app.jpeg](app.jpeg)
+
+![app2.jpeg](app2.jpeg)
 
 ## 📈 Future Improvements
 - Train on a larger and more diverse landmark dataset.
